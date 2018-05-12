@@ -15,6 +15,8 @@ creator:
 description: One in a series of stories that introduce a period of history and a geographical
   location through the adventures of twins. Here, cave twins Firetop and Firefly take
   us to prehistoric days when man was a hunter and wore the skins of animals.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28425#The-Cave-Twins
 gutenberg_issued: '2009-03-28'
 gutenberg_type: Text
 identifiers:
